@@ -1,2 +1,2 @@
-import library
-print(sum((8, 2, 3, 0, 7)))
+from library import *
+print (F(9))
